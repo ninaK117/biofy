@@ -6,3 +6,9 @@ Biofy allows you to share the song you are currently listening to on your Twitte
 
 - pip install tweepy
 - pip install spotipy
+- pip install time
+- pip install requests
+- pip install session
+- pip install request
+
+
