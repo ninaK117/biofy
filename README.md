@@ -11,4 +11,5 @@ Biofy allows you to share the song you are currently listening to on your Twitte
 - pip install session
 - pip install request
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
