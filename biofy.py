@@ -20,12 +20,12 @@ class Biofy:
         auth = tweepy.OAuthHandler(self.TWITTER_API_KEY, self.TWITTER_API_SECRET)
         try:
             redirect_url = auth.get_authorization_url()
-            print("Go to this URL for verify code: " + redirect_url)
+            print("Please click on this URL: " + redirect_url)
         except tweepy.TweepError:
             print('Error! Failed to get request token.')
             quit()
 
-        print("enter the verify code from the URL above")
+        print("Enter the verification code from the URL above.")
         verifier = input('Verify code: ')
 
         try:
