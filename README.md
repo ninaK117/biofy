@@ -2,6 +2,8 @@
 
 Biofy allows you to share the song you are currently listening to on your Twitter bio! In addition, an emoji that relates to the song will be displayed near the song title. 
 
+![](demo.gif)
+
 # Dependencies 
 
 - pip install tweepy
@@ -11,5 +13,5 @@ Biofy allows you to share the song you are currently listening to on your Twitte
 - pip install session
 - pip install request
 
-![](demo.gif)
+
 
