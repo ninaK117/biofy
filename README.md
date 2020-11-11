@@ -13,5 +13,5 @@ Biofy allows you to share the song you are currently listening to on your Twitte
 - pip install session
 - pip install request
 
-
+Credit to Graham Hicks' Emoji Finder website that I webscraped. (https://emojifinder.com)
 
